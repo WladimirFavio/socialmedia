@@ -37,7 +37,7 @@ li  {
 body{
     font-family: 'Roboto', sans-serif;
     background: #EFEFEF;
-    /* margin-top: 100px; */
+    margin-top: 150px;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -90,4 +90,22 @@ footer p{
 .card:hover .btn-outline-primary {
     color: white;
     background: #007bff;
+}
+
+/* Carousel */
+
+.carousel-caption {
+    /* padding-bottom: 12%; */
+    background-color: #343a40;
+    opacity:0.6;
+}
+
+.carousel-caption h3 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 24px;
+    color: #fff;
 }
