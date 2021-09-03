@@ -5,12 +5,17 @@ li  {
     border-bottom: solid 1px #212529;
 }
 
+
 .altura{
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .altura2{
     padding: 30px 0;
+}
+
+.altura3{
+    padding: 10px 0;
 }
 
 
@@ -37,7 +42,7 @@ li  {
 body{
     font-family: 'Roboto', sans-serif;
     background: #EFEFEF;
-    margin-top: 150px;
+    /* margin-top: 50px; */
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -51,10 +56,6 @@ h1, h2, h3, h4, h5, h6{
 .sps--abv{
     background-color: transparent;
     color: #000;
-}
-
-.altura{
-    padding: 50px 0;
 }
 
 footer{
@@ -87,17 +88,17 @@ footer p{
     opacity: 1;
 }
 
-.card:hover .btn-outline-primary {
+/* .card:hover .btn-outline-primary {
     color: white;
     background: #007bff;
-}
+} */
 
 /* Carousel */
 
 .carousel-caption {
     /* padding-bottom: 12%; */
-    background-color: #343a40;
-    opacity: 0.6;
+    /* background-color: #343a40; */
+    /* opacity: 0.4; */
 }
 
 .carousel-caption h3 {
@@ -106,11 +107,26 @@ footer p{
 }
 
 .carousel-caption p {
-    font-size: 24px;
+    /* font-size: 24px; */
     color: #fff;
 }
 
-.opacidad{
-    /* background:#000 ; */
-    /* opacity:0.3; */
+/* .opacidad{
+    background:#000 ;
+    /opacity:0.3;
+} */
+
+/* .carousel-caption p {
+    font-size: 24px;
+    color: #fff;
+} */
+
+.bg-dark {
+    background-color: #052c48!important;
+}
+
+#e30052
+
+.bg-danger {
+    background-color: #e30052!important;
 }
