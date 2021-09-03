@@ -65,10 +65,10 @@ footer{
     color: #fff;
 }
 
-footer p{
+footer p, h2{
     /* background-color: #000; */
     text-align: center;
-    color: #e0e4e5;
+    color: #b4c0c8;
 }
 
 /* Cambio de color para los fondos del Nabvar
