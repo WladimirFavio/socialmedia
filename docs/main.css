@@ -97,7 +97,7 @@ footer p{
 .carousel-caption {
     /* padding-bottom: 12%; */
     background-color: #343a40;
-    opacity:0.6;
+    opacity: 0.6;
 }
 
 .carousel-caption h3 {
@@ -108,4 +108,9 @@ footer p{
 .carousel-caption p {
     font-size: 24px;
     color: #fff;
+}
+
+.opacidad{
+    /* background:#000 ; */
+    /* opacity:0.3; */
 }
